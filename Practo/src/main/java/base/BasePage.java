@@ -1,5 +1,9 @@
 package base;
 
-public class BasePage {
-
+public class BasePage
+{
+public void initizile()
+{
+	
+}
 }
