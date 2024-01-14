@@ -12,5 +12,9 @@ public class HomePage extends BasePage
 	{
 		System.out.println("code for validation");
 	}
+	public void getTitle()
+	{
+		System.out.println("code to get title");
+	}
 
 }
