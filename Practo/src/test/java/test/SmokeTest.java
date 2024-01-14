@@ -6,4 +6,8 @@ public void validatetilte()
 {
 	
 }
+public void validatelogin()
+{
+	
+}
 }
